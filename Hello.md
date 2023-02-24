@@ -40,3 +40,16 @@ Git add
 ![Картинка](https://klike.net/uploads/posts/2019-05/medium/1559021804_2.jpg)
 
 [Работа с Markdown](https://lifehacker.ru/chto-takoe-markdown/)
+
+## Работа со списками
+
+1. Один
+2. Два
+
+* один
+* два
++
++
+-
+-
+
